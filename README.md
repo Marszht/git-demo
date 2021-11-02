@@ -10,3 +10,5 @@ git reset again
 git revert test
 
 i am the right commit 
+
+i am the worng commit 
