@@ -8,3 +8,5 @@ git reset staged
 git reset again
 
 git revert test
+
+i am the right commit 
