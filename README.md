@@ -6,3 +6,5 @@ git checkout workespace
 git reset staged
 
 git reset again
+
+git revert test
